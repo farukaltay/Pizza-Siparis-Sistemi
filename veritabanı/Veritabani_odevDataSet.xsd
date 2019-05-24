@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Veritabani_odevDataSet" targetNamespace="http://tempuri.org/Veritabani_odevDataSet.xsd" xmlns:mstns="http://tempuri.org/Veritabani_odevDataSet.xsd" xmlns="http://tempuri.org/Veritabani_odevDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection ConnectionStringObject="Data Source=.;Initial Catalog=Veritabani_odev;Integrated Security=True" IsAppSettingsProperty="false" Modifier="Assembly" Name="desktop-tab5k3c.Veritabani_odev.dbo" ParameterPrefix="@" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="urunlerTableAdapter" GeneratorDataComponentClassName="urunlerTableAdapter" Name="urunler" UserDataComponentName="urunlerTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="desktop-tab5k3c.Veritabani_odev.dbo" DbObjectName="Veritabani_odev.dbo.urunler" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT urun_ad FROM dbo.urunler</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="urun_ad" DataSetColumn="urun_ad" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Veritabani_odevDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="Veritabani_odevDataSet" msprop:Generator_UserDSName="Veritabani_odevDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="urunler" msprop:Generator_TableClassName="urunlerDataTable" msprop:Generator_TableVarName="tableurunler" msprop:Generator_TablePropName="urunler" msprop:Generator_RowDeletingName="urunlerRowDeleting" msprop:Generator_RowChangingName="urunlerRowChanging" msprop:Generator_RowEvHandlerName="urunlerRowChangeEventHandler" msprop:Generator_RowDeletedName="urunlerRowDeleted" msprop:Generator_UserTableName="urunler" msprop:Generator_RowChangedName="urunlerRowChanged" msprop:Generator_RowEvArgName="urunlerRowChangeEvent" msprop:Generator_RowClassName="urunlerRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="urun_ad" msprop:Generator_ColumnVarNameInTable="columnurun_ad" msprop:Generator_ColumnPropNameInRow="urun_ad" msprop:Generator_ColumnPropNameInTable="urun_adColumn" msprop:Generator_UserColumnName="urun_ad">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,229 @@
+c:\users\faruk\documents\visual studio 2013\Projects\veritabanı\veritabanı\bin\Debug\veritabanı.exe.config
+c:\users\faruk\documents\visual studio 2013\Projects\veritabanı\veritabanı\bin\Debug\veritabanı.exe
+c:\users\faruk\documents\visual studio 2013\Projects\veritabanı\veritabanı\bin\Debug\veritabanı.pdb
+c:\users\faruk\documents\visual studio 2013\Projects\veritabanı\veritabanı\obj\Debug\veritabanı.csprojResolveAssemblyReference.cache
+c:\users\faruk\documents\visual studio 2013\Projects\veritabanı\veritabanı\obj\Debug\veritabanı.Form1.resources
+c:\users\faruk\documents\visual studio 2013\Projects\veritabanı\veritabanı\obj\Debug\veritabanı.Properties.Resources.resources
+c:\users\faruk\documents\visual studio 2013\Projects\veritabanı\veritabanı\obj\Debug\veritabanı.üyegiris.resources
+c:\users\faruk\documents\visual studio 2013\Projects\veritabanı\veritabanı\obj\Debug\veritabanı.csproj.GenerateResource.Cache
+c:\users\faruk\documents\visual studio 2013\Projects\veritabanı\veritabanı\obj\Debug\veritabanı.exe
+c:\users\faruk\documents\visual studio 2013\Projects\veritabanı\veritabanı\obj\Debug\veritabanı.pdb
+c:\users\faruk\documents\visual studio 2013\Projects\veritabanı\veritabanı\obj\Debug\veritabanı.admingiris.resources
+c:\users\faruk\documents\visual studio 2013\Projects\veritabanı\veritabanı\obj\Debug\veritabanı.pizzacigiris.resources
+c:\users\faruk\documents\visual studio 2013\Projects\veritabanı\veritabanı\obj\Debug\veritabanı.üyeol.resources
+C:\Users\Faruk\documents\visual studio 2013\Projects\veritabanı\veritabanı\obj\Debug\veritabanı.PizzaSiparis.resources
+C:\Users\Faruk\Documents\Visual Studio 2013\Projects\veritabanı\veritabanı\obj\Debug\veritabanı.adminislem.resources
+C:\Users\Faruk\documents\visual studio 2013\Projects\veritabanı\veritabanı\obj\Debug\veritabanı.Pizzaciislem.resources
+C:\Users\Faruk\documents\visual studio 2013\Projects\veritabanı\veritabanı\obj\Debug\Interop.PAGEOBJECTMODELLib.dll
+C:\Users\Faruk\documents\visual studio 2013\Projects\veritabanı\veritabanı\obj\Debug\veritabanı.csproj.ResolveComReference.cache
+C:\Users\Faruk\documents\visual studio 2013\Projects\veritabanı\veritabanı\obj\Debug\Interop.CRQUERYENGINE.dll
+C:\Users\Faruk\documents\visual studio 2013\Projects\veritabanı\veritabanı\obj\Debug\RdlCompile.cache
+C:\Users\Faruk\documents\visual studio 2013\Projects\veritabanı\veritabanı\obj\Debug\RdlCompile.compiled
+C:\Users\Faruk\documents\visual studio 2013\Projects\veritabanı\veritabanı\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Faruk\documents\visual studio 2013\Projects\veritabanı\veritabanı\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Faruk\documents\visual studio 2013\Projects\veritabanı\veritabanı\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Faruk\documents\visual studio 2013\Projects\veritabanı\veritabanı\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Faruk\documents\visual studio 2013\Projects\veritabanı\veritabanı\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\Faruk\documents\visual studio 2013\Projects\veritabanı\veritabanı\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Faruk\documents\visual studio 2013\Projects\veritabanı\veritabanı\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\Faruk\documents\visual studio 2013\Projects\veritabanı\veritabanı\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\Faruk\documents\visual studio 2013\Projects\veritabanı\veritabanı\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Faruk\documents\visual studio 2013\Projects\veritabanı\veritabanı\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\Faruk\documents\visual studio 2013\Projects\veritabanı\veritabanı\obj\Debug\Interop.MMC20.dll
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\veritabanı.exe.config
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\veritabanı.exe
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\veritabanı.pdb
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\FlashControlV71.dll
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\stdole.dll
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\obj\Debug\veritabanı.csprojResolveAssemblyReference.cache
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\obj\Debug\Interop.CRQUERYENGINE.dll
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\obj\Debug\Interop.MMC20.dll
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\obj\Debug\Interop.PAGEOBJECTMODELLib.dll
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\obj\Debug\veritabanı.csproj.ResolveComReference.cache
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\obj\Debug\veritabanı.admingiris.resources
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\obj\Debug\veritabanı.adminislem.resources
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\obj\Debug\veritabanı.Form1.resources
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\obj\Debug\veritabanı.pizzacigiris.resources
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\obj\Debug\veritabanı.Pizzaciislem.resources
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\obj\Debug\veritabanı.PizzaSiparis.resources
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\obj\Debug\veritabanı.Properties.Resources.resources
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\obj\Debug\veritabanı.üyegiris.resources
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\obj\Debug\veritabanı.üyeol.resources
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\obj\Debug\veritabanı.csproj.GenerateResource.Cache
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\obj\Debug\veritabanı.csproj.CoreCompileInputs.cache
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\obj\Debug\veritabanı.exe
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\obj\Debug\veritabanı.pdb
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\Spire.Barcode.dll
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\Spire.Common.dll
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\Spire.DataExport.dll
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\Spire.DataExport.ResourceMgr.dll
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\Spire.Doc.dll
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\Spire.DocViewer.Forms.dll
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\Spire.Email.dll
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\Spire.License.dll
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\Spire.OfficeViewer.Forms.dll
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\Spire.Pdf.dll
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\Spire.PdfViewer.Asp.dll
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\Spire.PdfViewer.Forms.dll
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\Spire.Presentation.dll
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\Spire.Spreadsheet.dll
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\Spire.XLS.dll
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\Microsoft.mshtml.dll
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\Spire.Barcode.xml
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\Spire.Common.xml
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\Spire.DataExport.xml
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\Spire.Doc.xml
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\Spire.DocViewer.Forms.xml
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\Spire.Email.xml
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\Spire.License.xml
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\Spire.OfficeViewer.Forms.xml
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\Spire.Pdf.xml
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\Spire.PdfViewer.Asp.xml
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\Spire.PdfViewer.Forms.xml
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\Spire.Presentation.xml
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\Spire.Spreadsheet.xml
+C:\Users\Vaio\Desktop\veritabanı\veritabanı\bin\Debug\Spire.XLS.xml
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\bin\Debug\veritabanı.exe.config
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\obj\Debug\Interop.MMC20.dll
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\obj\Debug\Interop.PAGEOBJECTMODELLib.dll
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\obj\Debug\veritabanı.csproj.ResolveComReference.cache
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\obj\Debug\veritabanı.exe
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\obj\Debug\veritabanı.pdb
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\obj\Debug\veritabanı.csprojResolveAssemblyReference.cache
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\obj\Debug\veritabanı.admingiris.resources
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\obj\Debug\veritabanı.adminislem.resources
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\obj\Debug\veritabanı.Form1.resources
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\obj\Debug\veritabanı.pizzacigiris.resources
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\obj\Debug\veritabanı.Pizzaciislem.resources
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\obj\Debug\veritabanı.PizzaSiparis.resources
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\obj\Debug\veritabanı.Properties.Resources.resources
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\obj\Debug\veritabanı.üyegiris.resources
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\obj\Debug\veritabanı.üyeol.resources
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\obj\Debug\veritabanı.csproj.GenerateResource.Cache
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\bin\Debug\veritabanı.exe
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\bin\Debug\veritabanı.pdb
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\bin\Debug\Spire.Barcode.dll
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\bin\Debug\Spire.Common.dll
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\bin\Debug\Spire.DataExport.dll
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\bin\Debug\Spire.DataExport.ResourceMgr.dll
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\bin\Debug\Spire.Doc.dll
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\bin\Debug\Spire.DocViewer.Forms.dll
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\bin\Debug\Spire.Email.dll
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\bin\Debug\Spire.License.dll
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\bin\Debug\Spire.OfficeViewer.Forms.dll
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\bin\Debug\Spire.Pdf.dll
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\bin\Debug\Spire.PdfViewer.Asp.dll
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\bin\Debug\Spire.PdfViewer.Forms.dll
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\bin\Debug\Spire.Presentation.dll
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\bin\Debug\Spire.Spreadsheet.dll
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\bin\Debug\Spire.XLS.dll
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\bin\Debug\Spire.Barcode.xml
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\bin\Debug\Spire.Common.xml
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\bin\Debug\Spire.DataExport.xml
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\bin\Debug\Spire.Doc.xml
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\bin\Debug\Spire.DocViewer.Forms.xml
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\bin\Debug\Spire.Email.xml
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\bin\Debug\Spire.License.xml
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\bin\Debug\Spire.OfficeViewer.Forms.xml
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\bin\Debug\Spire.Pdf.xml
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\bin\Debug\Spire.PdfViewer.Asp.xml
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\bin\Debug\Spire.PdfViewer.Forms.xml
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\bin\Debug\Spire.Presentation.xml
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\bin\Debug\Spire.Spreadsheet.xml
+C:\Users\Faruk\Desktop\veritabanı\veritabanı\bin\Debug\Spire.XLS.xml
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\bin\Debug\veritabanı.exe.config
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\obj\Debug\Interop.MMC20.dll
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\obj\Debug\veritabanı.csproj.ResolveComReference.cache
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\obj\Debug\veritabanı.exe
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\obj\Debug\veritabanı.pdb
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\bin\Debug\veritabanı.exe
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\bin\Debug\veritabanı.pdb
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\bin\Debug\Spire.Barcode.dll
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\bin\Debug\Spire.Common.dll
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\bin\Debug\Spire.DataExport.dll
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\bin\Debug\Spire.DataExport.ResourceMgr.dll
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\bin\Debug\Spire.Doc.dll
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\bin\Debug\Spire.DocViewer.Forms.dll
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\bin\Debug\Spire.Email.dll
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\bin\Debug\Spire.License.dll
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\bin\Debug\Spire.OfficeViewer.Forms.dll
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\bin\Debug\Spire.Pdf.dll
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\bin\Debug\Spire.PdfViewer.Asp.dll
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\bin\Debug\Spire.PdfViewer.Forms.dll
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\bin\Debug\Spire.Presentation.dll
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\bin\Debug\Spire.Spreadsheet.dll
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\bin\Debug\Spire.XLS.dll
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\bin\Debug\Microsoft.SqlServer.SqlTDiagM.dll
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\bin\Debug\Spire.Barcode.xml
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\bin\Debug\Spire.Common.xml
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\bin\Debug\Spire.DataExport.xml
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\bin\Debug\Spire.Doc.xml
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\bin\Debug\Spire.DocViewer.Forms.xml
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\bin\Debug\Spire.Email.xml
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\bin\Debug\Spire.License.xml
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\bin\Debug\Spire.OfficeViewer.Forms.xml
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\bin\Debug\Spire.Pdf.xml
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\bin\Debug\Spire.PdfViewer.Asp.xml
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\bin\Debug\Spire.PdfViewer.Forms.xml
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\bin\Debug\Spire.Presentation.xml
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\bin\Debug\Spire.Spreadsheet.xml
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\bin\Debug\Spire.XLS.xml
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\obj\Debug\veritabanı.admingiris.resources
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\obj\Debug\veritabanı.adminislem.resources
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\obj\Debug\veritabanı.pizzacigiris.resources
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\obj\Debug\veritabanı.Pizzaciislem.resources
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\obj\Debug\veritabanı.PizzaSiparis.resources
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\obj\Debug\veritabanı.Properties.Resources.resources
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\obj\Debug\veritabanı.csproj.GenerateResource.Cache
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\obj\Debug\veritabanı.csprojAssemblyReference.cache
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\bin\Debug\Microsoft.mshtml.dll
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\bin\Debug\stdole.dll
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\obj\Debug\veritabanı.csproj.CoreCompileInputs.cache
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\obj\Debug\veritabanı.csproj.CopyComplete
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\obj\Debug\veritabanı.FormGiris.resources
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\obj\Debug\veritabanı.UyeGiris.resources
+C:\Users\Faruk\Desktop\Notlar\Projeler\C#--SQL\veritabanı\veritabanı\obj\Debug\veritabanı.UyeOl.resources
